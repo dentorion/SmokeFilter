@@ -1,0 +1,29 @@
+LittleDB            KEYWORD1
+Storage             KEYWORD1
+Table               KEYWORD1
+TableIterator       KEYWORD1
+Algorithms          KEYWORD1
+
+Record              KEYWORD2
+Result              KEYWORD2
+
+begin               KEYWORD2
+end                 KEYWORD2
+open                KEYWORD2
+close               KEYWORD2
+insert              KEYWORD2
+get                 KEYWORD2
+update              KEYWORD2
+remove              KEYWORD2
+clear               KEYWORD2
+compact             KEYWORD2
+iterator            KEYWORD2
+algorithms          KEYWORD2
+exists              KEYWORD2
+findIf              KEYWORD2
+countIf             KEYWORD2
+updateIf            KEYWORD2
+removeIf            KEYWORD2
+anyOf               KEYWORD2
+allOf               KEYWORD2
+noneOf              KEYWORD2
